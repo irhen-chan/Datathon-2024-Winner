@@ -1,0 +1,10 @@
+# Data
+data/landing
+data/raw
+data/curated
+
+# Results
+results/
+
+# Plots
+plots/
