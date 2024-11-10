@@ -38,9 +38,14 @@ The objective was to investigate and mitigate revenue loss caused by fraudulent 
 #### Deployment: Implement a scalable real-time fraud detection system.
 
 ## Instructions to run the models
+### Main notebooks : 
+- preprocess.ipynb
+- feature_engineering.ipynb
+- solutions.ipynb
+
 1) Make a folder called landing in the data folder like so /data/landing
 2) Download the inter-uni-datathon-2024-vic dataset and extract in /data/landing folder
-3) Run the following programs in order (All jupyter notebook files are in notebook folder):
+3) Run the following programs in order (All jupyter notebook files):
 - preprocess.ipynb
 - feature_engineering.ipynb
 - solutions.ipynb
